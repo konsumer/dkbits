@@ -16,9 +16,9 @@ from os.path import exists
 
 # SETTINGS
 
-WEBROOT='/var/www'
+WEBROOT='/home/konsumer/Projects/sites/www'
 
-# check if daemon script exists, turn off things, if it's not installed
+# check if daemon script exists
 USING_POSTGRES=exists('/etc/init.d/postgresql-8.3')
 USING_MYSQL=exists('/etc/init.d/mysql')
 
