@@ -10,7 +10,7 @@ on Ubuntu, to install what you need:
 * `sudo apt-get install apache2`
 * for mysql : `sudo apt-get install mysql-server phpmyadmin`
 * for postgres: `sudo apt-get install postgresql-8.3 pgadmin3`
-* sudo chown -R `whoami` /var/www
+* `sudo chown -R ``whoami`` /var/www`
 
 ## volume_control.py
 This is a pretty volume-control, like the gnome one.
