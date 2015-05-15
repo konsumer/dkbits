@@ -1,5 +1,5 @@
 # dkbits
-Little code snippets that were useful for soemthing
+Little code snippets that were useful for something
 
 ## apachectl.py
 
@@ -26,4 +26,4 @@ use it like this:
 * `volume_control.py mute` - to toggle muting
 * `volume_control.py up` - turn up volume
 * `volume_control.py down` - turn down volume
-* `volume_control.py CARDNUM mute` - use same as aabove, for a specific card
+* `volume_control.py CARDNUM mute` - use same as above, for a specific card
